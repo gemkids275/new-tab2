@@ -9,6 +9,9 @@
         "48": "image/icons/gemini.png",
         "128": "image/icons/gemini.png"
     },
+    "browser_action": {
+      "default_icon": "image/icons/gemini.png"
+    },
 	"chrome_url_overrides": {
 		"newtab": "index.html"
 	},
